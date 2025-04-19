@@ -44,6 +44,8 @@ The analysis found that the average peak age for Rockies players in terms of wRC
 The visualization represents the career trajectory of wRC+ with respect to age, with a grey background theme for clarity.
 
 
-### 📈 wRC+ Trajectory for Colorado Rockies Players (1995–2022)
+## 📈 wRC+ Trajectory for Colorado Rockies Players (1995–2022)
 
-![wRC+ Trajectory](Visualizations/wRC_plus_trajectory.png)
+This chart visualizes how Rockies players' performance changes with age, using predicted wRC+ from a fixed-effects quadratic regression model.
+
+![wRC+ Trajectory](Visualizations/wrc_plus_trajectory.png)
