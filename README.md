@@ -42,3 +42,8 @@ Results
 
 The analysis found that the average peak age for Rockies players in terms of wRC+ is approximately 26.7 years, with a maximum wRC+ of around 112.65.
 The visualization represents the career trajectory of wRC+ with respect to age, with a grey background theme for clarity.
+
+
+### 📈 wRC+ Trajectory for Colorado Rockies Players (1995–2022)
+
+![wRC+ Trajectory](Visualizations/wRC_plus_trajectory.png)
